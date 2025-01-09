@@ -1,0 +1,102 @@
+
+.head-text{
+   text-align: center;
+   padding: 88px 0px;
+    
+    
+}
+/* celebration style */
+#celebration{
+    height: 600px;
+    width: 1320px;
+    margin: 50px 150px;
+    border-radius: 16px;
+    /* background-image: url("../media/images/Banner\ Image.png"); */
+    background: linear-gradient(0.00deg, rgba(14, 14, 14, 0) 2.884%,  rgb(92, 87, 87)  101.034%), url("../media/images/Banner\ Image.png");
+   
+
+}
+.title{
+    font-weight: bold;
+    font-size: 72px;
+}
+.sub{
+    font-weight: 400px;
+    font-size: 32px;
+}
+.color-red{
+    color: red;
+}
+    
+.color-white{
+    color: white;
+}
+
+/* categorise style */
+
+#categorise{
+    height: 806px;
+    width: 802px;
+    margin: 50px 400px;
+    text-align: center;
+    background-image: url("../media/images/New\ Year\ Photo.png");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+/* party style */
+.party{
+    height: 600px;
+    width: 1320px;
+    margin: 50px 150px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    background: linear-gradient(0.00deg, rgb(9, 9, 9) 2.884%,rgba(16, 16, 16, 0) 101.034%), url("../media/images/Vectorrr.png");
+}
+
+.party-text{
+    padding-left: 126px; }
+    .party-image{
+         padding-right: 138px; 
+
+    }
+.party-sub{
+    font-size: 18px;
+}
+.party-just{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#join-now{
+    height: 600px;
+    width: 1320px;
+    margin: 50px 150px;
+    border-radius: 16px;
+    padding-top: 100px;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600px ;
+    background-color: #debbbb;
+     
+}
+.btn{
+    background-color: red;
+    padding: 16px 32px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 48px;
+    
+}
+.btn :hover{
+    background-color: red;
+    padding: 20px 35px;
+    border-radius: 8px;
+    border: none;
+}

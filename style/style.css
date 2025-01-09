@@ -1,4 +1,6 @@
 
+
+
 .head-text{
    text-align: center;
    padding: 88px 0px;
@@ -30,6 +32,16 @@
     
 .color-white{
     color: white;
+}
+
+.st-text{
+    font-size: 20px;
+    font-weight: 400px;
+    color: #8b8892;
+}
+.text-24{
+    font-size: 24px;
+    font-weight: 400px;
 }
 
 /* categorise style */
@@ -100,3 +112,69 @@
     border-radius: 8px;
     border: none;
 }
+
+/* coming style */
+
+#coming{
+    height: 600px;
+    width: 1320px;
+    /* margin: 50px ; */
+    margin-right: 150px;
+    margin-top: 50px;
+    border-radius: 16px;
+    /* padding-top: 100px; */
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    
+}
+.new{
+     margin-left: 150px;
+     
+
+}
+.comming-image{
+    margin-right: 118px ;
+    margin-left: 70px;
+    border: 20px solid red;
+    border-radius: 50%;
+    padding: 50px;
+}
+
+/* holidays style */
+
+#holidays{
+    height: 985px;
+    width: 1320px;
+    margin: 50px 140px;
+    
+    border-radius: 16px;
+    /* padding-top: 100px; */
+    text-align: center;
+    /* display: flex;
+    align-items: center; */
+    /* justify-content: space-between; */
+    background-image: url("../media/images/Rectangle\ 2.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.grp-image{
+    display: flex;
+    justify-content: space-between;
+}
+
+ .grp-44{
+    height: 305px;
+    width: 305px;
+    /* margin-left: 975px; */
+    margin-right: 40px;
+    margin-top: 141px;
+    margin-bottom: 280px;
+    /* padding-bottom: 280px; */
+}
+.grp-75{
+    width: 675px;
+    height: 577px;
+     margin-top: 64px; 
+     margin-left: 60px; 
+} 
